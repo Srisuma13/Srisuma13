@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Srisuma13/Srisuma13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm a software engineer by profession interested in web and mobile development.
+- 🎤 I speak Javascript, React, Redux, Node.Js, Java, C++ and many more.
+- 🌱 I’m currently learning Spring framework and building microservices.
+- 👯 I’m looking to collaborate on any React or Javascript Projects.
+- 📫 You can follow me on [LinkedIn](https://www.linkedin.com/in/srisuma-atluri/) and [Dev.to](https://dev.to/srisuma13) as well for technical blogs and other updates.
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I'm binge watch lots of dramas especially k-dramas. But currently hooked to Gilmore girls and books of colleen hoover.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![@srisuma13's Holopin board](https://holopin.me/srisuma13)](https://holopin.io/@srisuma13)
+
