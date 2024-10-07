@@ -9,6 +9,4 @@
 - ⚡  Fav pastime: I binge watch lots of dramas, currently hooked to Gilmore girls and books of colleen hoover.
 
 
-
 [![@srisuma13's Holopin board](https://holopin.me/srisuma13)](https://holopin.io/@srisuma13)
-
